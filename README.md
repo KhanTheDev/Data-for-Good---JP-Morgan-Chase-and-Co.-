@@ -1,52 +1,69 @@
-# 🏙️ Community Data Insight Project – The Concilio x JPMorgan Challenge
+# 📊 Data for Good: Latino Community Outreach
 
-This project was developed during a community innovation challenge hosted by **JPMorgan Chase**, in partnership with **The Concilio**, a Dallas-based nonprofit. Our team analyzed census and internal data to uncover key trends affecting underserved Latino families and proposed a strategy to optimize community outreach and resource allocation.
-
----
-
-## 📌 Objective
-
-Analyze and visualize public and private datasets to:
-- Uncover demographic and socioeconomic patterns
-- Identify high-need areas
-- Propose a data-driven roadmap to expand outreach and impact
+Built during the **Data for Good Hackathon** hosted by **JPMorgan Chase** + **The Concilio** (Dallas-based nonprofit) 🚀
 
 ---
 
-## 📊 Key Contributions
+## 📝 What’s this?
 
-- 🔍 **Data Analysis**: Examined U.S. Census and organizational data to identify disparities and community needs.
-- 🧭 **Strategic Planning**: Developed a data-backed roadmap to improve funding decisions and program scalability.
-- 🤝 **Stakeholder Presentation**: Collaborated in a team environment and presented findings to mentors and nonprofit leaders at JPMorgan.
+Our team used public + internal data to help The Concilio figure out:
+- Where to focus their community outreach 🗺️
+- Which neighborhoods had the highest need 📍
+- How to use data to make a stronger case for funding 💸
 
----
-
-## 🛠️ Tools & Technologies
-
-| Tool          | Purpose                             |
-|---------------|-------------------------------------|
-| Python (Pandas, Seaborn) | Data wrangling and visualization |
-| Jupyter Notebook | Exploratory data analysis          |
-| Tableau       | Interactive dashboards              |
-| Excel         | Preliminary data review             |
-| Census API    | External data sourcing              |
+Basically → turn raw data → into insights → into impact. 🙌
 
 ---
 
-## 📈 Outcome
+## 🎯 Goals
 
-✔ Helped The Concilio:
-- Prioritize communities for targeted outreach
-- Make a stronger case for future grants
-- Align program resources with data-informed needs
-
----
-
-## 🤝 Acknowledgments
-
-Gratitude to **The Concilio** for their mission-driven work and data access, and to **JPMorgan Chase** for sponsoring and mentoring the event.
+- Spot patterns in demographics & income levels
+- Find the areas where families need the most support
+- Build a simple, data-backed plan for smarter outreach
 
 ---
 
+## 🔥 What we did
+
+- 🐼 **Pandas + Python** → cleaned & explored census + program data
+- 📊 **Tableau dashboards** → made the data easy to understand for non-technical folks
+- 🚀 **Strategy** → built a roadmap The Concilio can actually use for future grant writing + program scaling
+- 🎤 **Presented** to JPMorgan mentors + nonprofit leaders
+
+---
+
+## 🛠️ Stack
+
+- Python + Pandas + Seaborn → EDA
+- Jupyter Notebooks → fast prototyping
+- Tableau → interactive dashboards
+- Census API → pulled external data
+- Excel → early data checks
+
+---
+
+## 💥 Impact
+
+Helped The Concilio:
+- Prioritize which communities to focus on next
+- Build stronger grant apps (with real data)
+- Align resources with actual community needs
+
+---
+
+## 🙏 Shoutouts
+
+Huge thanks to:
+- **The Concilio** team (amazing mission-driven org 💛)
+- **JPMorgan Chase** mentors & hackathon crew 🙌
+
+---
+
+## ⚡️ About the Hackathon
+
+Part of **Data for Good Hackathon** → turning raw data into social impact.  
+Built this in a weekend with an awesome team — super proud of the result.
+
+---
 
 
